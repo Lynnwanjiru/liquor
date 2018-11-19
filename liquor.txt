@@ -6,3 +6,4 @@ guiness
 kgb liqueur
 red label 
 black label
+cellar cask
